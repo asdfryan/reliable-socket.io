@@ -1,0 +1,13 @@
+{
+  "name": "reliable-socket.io",
+  "repo": "asdfryan/reliable-socket.io",
+  "description": "server side for reliable-socket",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
